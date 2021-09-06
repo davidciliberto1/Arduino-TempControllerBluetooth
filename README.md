@@ -11,4 +11,5 @@ Lista de libreria
 
 #include <LiquidCrystal.h>
 
-![alt text](image.jpg)
+## Arduino Temperature Controller
+<img src="https://raw.githubusercontent.com/davidciliberto1/Arduino-TempControllerBluetooth/main/images/tempController.jpeg" width="200"  style="text-align: right;"> 
