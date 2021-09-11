@@ -2,9 +2,8 @@
 
 Description: Temperature and defrost controller for commercial freezers.
 It regulates temperature by turning on and off the compressor in the equipment inside the parameters programmed. also has a defrost resistance programmable by time or temperature.
-### "inserte diseño de conexion de componentes y modulos"
 
-Lista de libreria
+Libraries
 #include <SoftwareSerial.h>
 
 #include <LiquidCrystal.h>
